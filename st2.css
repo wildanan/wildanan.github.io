@@ -1,0 +1,51 @@
+body {
+    background-color:rgb(121, 118, 118);
+}
+
+/*header*/
+
+header {
+    background-color: black;
+    top: 0;
+    left: 0;
+    width: 100%;
+    position: fixed;
+    color: aliceblue;
+    height: 100px;
+    margin: auto;
+    text-decoration-line: none; 
+}
+/*logo*/
+
+.logoo {
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-bottom: -50px;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#logo h1 {
+    text-decoration-line: none;
+    text-decoration: none;
+ }
+
+/*navbar*/
+
+.navbar {
+    position: relative;
+    display: inline-block;
+    float: right;
+    
+}
+
+body {
+    background-image: url("img/pt5.png");
+    background-size: cover;
+}
+
+.isi {
+    margin-top: 200px;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    font-size: 20px;
+}
